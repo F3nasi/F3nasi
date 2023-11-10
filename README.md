@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Erturan 🇦🇿, 19 year old developer on Discord</h1>
+<h1 align="center">Hi! I'm arwintal 🇦🇿</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=f3nasi&label=Profile%20views&color=0e75b6&style=flat" alt="f3nasi" /> </p>
 
