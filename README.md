@@ -6,6 +6,8 @@
 <div align="center">
 <a href="https://discord.com/users/609824441438044164"><img src="https://lanyard-profile-readme.vercel.app/api/609824441438044164?borderRadius=25px&bg=#282a36"></a>
  <p>
+
+ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/2Ij97l9muwSuherggNbBs7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
    
   
 <h3 align="center">Languages and Tools:</h3>
